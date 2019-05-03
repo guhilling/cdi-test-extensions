@@ -33,7 +33,7 @@
             <groupId>org.jboss.spec.javax.ejb</groupId>
             <artifactId>jboss-ejb-api_3.2_spec</artifactId>
             <scope>provided</scope>
-            <version>1.0.1.Final</version>
+            <version>1.0.2.Final</version>
         </dependency>
         <dependency>
             <groupId>javax.annotation</groupId>
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.4.198</version>
+            <version>1.4.199</version>
             <scope>test</scope>
         </dependency>
 
