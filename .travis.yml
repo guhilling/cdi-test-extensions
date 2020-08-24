@@ -12,6 +12,7 @@ language: java
 jdk:
   - openjdk8
   - openjdk11
+  - openjdk14
 
 script:
   - mvn test
